@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# Python tooling
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Node (if used later)
+node_modules/
+
+# Build artifacts
+.dist/
+dist/
+coverage/
